@@ -1,0 +1,150 @@
+<n> <m> <# obstacles> <# dirty> <# childrens> <# robots> <t_change_env> <# turns> <# simulations>
+5 6 3 4 3 4 2 7 3
+
+Sim: 1
+All childs in playpen or in robots
+Environment clean
+Clean percent: 81%
+
+Sim: 2
+Some child are free
+Environment clean
+Clean percent: 80%
+
+Sim: 3
+Some child are free
+Environment clean
+Clean percent: 80%
+-----------------------------------------------------------------------------------------------------
+
+FINAL RESULTS
+Environment clean
+Clean Percent Average: 80%
+
+
+_____________________________________________________________________________________________________
+
+
+<n> <m> <# obstacles> <# dirty> <# childrens> <# robots> <t_change_env> <# turns> <# simulations>
+6 6 5 5 5 5 2 9 3
+
+Sim: 1
+Some child are free
+Environment clean
+Clean percent: 64%
+
+Sim: 2
+Some child are free
+Environment clean
+Clean percent: 85%
+
+Sim: 3
+Some child are free
+Environment clean
+Clean percent: 80%
+-----------------------------------------------------------------------------------------------------
+
+FINAL RESULTS
+Environment clean
+Clean Percent Average: 76%
+
+
+_____________________________________________________________________________________________________
+
+
+<n> <m> <# obstacles> <# dirty> <# childrens> <# robots> <t_change_env> <# turns> <# simulations>
+5 5 2 4 3 2 2 10 5
+
+Sim: 1
+Some child are free
+Environment clean
+Clean percent: 78%
+
+Sim: 2
+Some child are free
+Environment clean
+Clean percent: 83%
+
+Sim: 3
+Some child are free
+Environment clean
+Clean percent: 83%
+
+Sim: 4
+Some child are free
+Environment clean
+Clean percent: 84%
+
+Sim: 5
+Some child are free
+Environment clean
+Clean percent: 80%
+-----------------------------------------------------------------------------------------------------
+
+FINAL RESULTS
+Environment clean
+Clean Percent Average: 81%
+
+
+_____________________________________________________________________________________________________
+
+
+<n> <m> <# obstacles> <# dirty> <# childrens> <# robots> <t_change_env> <# turns> <# simulations>
+4 4 1 4 4 2 1 7 5
+
+Sim: 1
+Some child are free
+Environment dirty
+Clean percent: 42%
+
+Sim: 2
+Some child are free
+Environment dirty
+Clean percent: 57%
+
+Sim: 3
+Some child are free
+Environment clean
+Clean percent: 83%
+
+Sim: 4
+Some child are free
+Environment clean
+Clean percent: 85%
+
+Sim: 5
+Some child are free
+Environment dirty
+Clean percent: 33%
+-----------------------------------------------------------------------------------------------------
+
+FINAL RESULTS
+Environment clean
+Clean Percent Average: 60%
+
+
+_____________________________________________________________________________________________________
+
+
+<n> <m> <# obstacles> <# dirty> <# childrens> <# robots> <t_change_env> <# turns> <# simulations>
+4 6 3 2 3 3 4 9 2
+
+Sim: 1
+All childs in playpen or in robots
+Environment clean
+Clean percent: 93%
+
+Sim: 2
+All childs in playpen or in robots
+Environment clean
+Clean percent: 93%
+-----------------------------------------------------------------------------------------------------
+
+FINAL RESULTS
+Environment clean
+Clean Percent Average: 93%
+
+
+_____________________________________________________________________________________________________
+
+
